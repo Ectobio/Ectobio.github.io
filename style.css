@@ -1,0 +1,21 @@
+a {
+	color : blue;
+	font-family: Times, Times New Roman, serif;
+}
+
+h1 {
+	font-family : Impact, fantasy;
+}
+
+body {
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	height: 100vh;
+	background: linear-gradient(to bottom right, #11CCE7, #C811E7);
+}
+
+p {
+	font-family: Comic Sans MS, Comic Sans, cursive;
+}
